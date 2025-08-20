@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cadullira/taskfy/issues"
   },
-  "homepage": "https://github.com/cadullira/taskfy#readme"
+  "homepage": "https://github.com/cadullira/taskfy#readme",
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
 }
