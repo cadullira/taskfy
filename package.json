@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/cadullira/taskfy#readme",
   "dependencies": {
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "mongodb": "^6.18.0",
+    "mongoose": "^8.17.2"
   }
 }
