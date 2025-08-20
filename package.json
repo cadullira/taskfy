@@ -1,0 +1,16 @@
+{
+  "name": "taskfy-monorepo",
+  "private": true, 
+  "workspaces": [
+    "server",
+    "client"
+  ],
+  "scripts": {
+    "dev:server": "npm run dev --workspace=server",
+    "start:server": "npm start --workspace=server"
+    
+  },
+  "devDependencies": {
+   
+  }
+}

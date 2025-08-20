@@ -19,7 +19,7 @@ connection.once('open', () => {
 });
 
 app.get('/', (req, res) => {
-  res.send('API do Taskfy está funcionado!');
+  res.send('API do Taskfy está no ar!');
 });
 
 app.listen(PORT, () => {
