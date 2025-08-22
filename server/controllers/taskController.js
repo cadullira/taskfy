@@ -1,4 +1,4 @@
-const Task = require('../models/taskModel');
+const Task = require('../models/task.model');
 
 const getTasks = async (req, res) => {
     res.json({message: 'Buscar todas as tarefas'});
